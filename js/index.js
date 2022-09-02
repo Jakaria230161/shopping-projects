@@ -92,7 +92,7 @@ searchField.addEventListener("keypress", async(event)=>{
             </div>
           </div>`
 
-        productsContainer.appendChild(div);
+          productsContainer.appendChild(div);
         });
     }
 })
